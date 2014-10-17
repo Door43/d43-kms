@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kms:home|Door43 (kms)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kms|d43-kms repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kms/archive/master.zip|d43-kms.zip]]
+
+**Recent Changes**
+{{changes>ns = kms}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kms|Ethnologue data]]
+
